@@ -15,3 +15,8 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - How you can use type annotations to specify - - function signatures and variable types
 - Duck typing
 - How to validate your code with mypy
+
+## :pencil: **Author**
+### :man: Yidnekachew Bantrga
+- [Github](https://github.com/Yidne21)
+- [Linkedin](https://www.linkedin.com/in/yidnekachew-bantrga-801376234/)
