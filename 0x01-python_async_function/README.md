@@ -1,5 +1,5 @@
 # 0x01. Python - Async
-<p>This is Alx software Engineering backend specialization tutorial project which focus on how pathon <b>asyncIO</b> works.</p>
+<p>This is Alx software Engineering backend specialization tutorial project which focus on how paython <b>asyncIO</b> works.</p>
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
