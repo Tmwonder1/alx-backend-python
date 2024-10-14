@@ -5,6 +5,6 @@
 ---
 This repository contains various Python codes primarily used for implementing backend concepts, provided by ALX Software Engineering for ALX students specializing in backend web development.
 ## :pencil: **Author**
-### :man: Yidnekachew Bantrga
-- [Github](https://github.com/Yidne21)
-- [Linkedin](https://www.linkedin.com/in/yidnekachew-bantrga-801376234/)
+### :man: Tochukwu Offordum
+- [Github](https://github.com/Tmwonder1)
+- [Linkedin](https://www.linkedin.com/in/tochukwu-offordum-a20b45272/)
